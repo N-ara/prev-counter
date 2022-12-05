@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1{
+text-align: center;
+color:burlywood;
+}
+
+h1 button{
+  display: block;
+  margin: 0 auto;
+  border-radius: 10%;
+  border-color: brown;
+}
